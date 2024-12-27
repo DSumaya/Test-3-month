@@ -8,5 +8,4 @@ bot = Bot(token = token) #отправляет
 dispatcher = Dispatcher() #принимает
 
 
-
 database = Database("db.sqlite3")
